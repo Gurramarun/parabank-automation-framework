@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-10T10:45:41 IST" name="ParaBank Test Suite" finished-at="2026-03-10T10:45:55 IST" duration-ms="14247">
+    <groups>
+    </groups>
+    <test started-at="2026-03-10T10:45:41 IST" name="User Registration Test" finished-at="2026-03-10T10:45:55 IST" duration-ms="14247">
+      <class name="tests.RegisterTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.RegisterTest@30c15d8b]" started-at="2026-03-10T10:45:41 IST" name="setUp" finished-at="2026-03-10T10:45:48 IST" duration-ms="6624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="userRegistrationAndLoginTest()[pri:0, instance:tests.RegisterTest@30c15d8b]" started-at="2026-03-10T10:45:48 IST" name="userRegistrationAndLoginTest" finished-at="2026-03-10T10:45:55 IST" duration-ms="6978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRegistrationAndLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.RegisterTest@30c15d8b]" started-at="2026-03-10T10:45:55 IST" name="tearDown" finished-at="2026-03-10T10:45:55 IST" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.RegisterTest -->
+    </test> <!-- User Registration Test -->
+  </suite> <!-- ParaBank Test Suite -->
+</testng-results>

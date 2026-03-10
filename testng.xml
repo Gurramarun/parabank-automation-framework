@@ -1,0 +1,15 @@
+
+
+<suite name="ParaBank Test Suite">
+
+    <test name="User Registration Test">
+
+        <classes>
+
+            <class name="tests.RegisterTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
